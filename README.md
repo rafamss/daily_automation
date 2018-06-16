@@ -14,4 +14,4 @@ In the sample above, I want to a password with the 18 characters of length **at 
 
 <span style="color:white" "background-color:red">"#Y0$:V[6t:b^H)O@</span>
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+<span style="color:red">some *This is Blue italic.* text</span>
