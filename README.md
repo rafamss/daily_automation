@@ -10,6 +10,6 @@ Inside the directory that you clone this git or put this code, execute the code 
 
 The output will be some like this:
 
-![Image of Output Password]https://github.com/rafamss/daily_automation/blob/master/passgenerator_result.png
+![Image of Output Password](https://github.com/rafamss/daily_automation/blob/master/passgenerator_result.png)
 
 In the sample above, I want to a password with the 18 characters of length **at maximum** (the password can be less that the maximum size or be equal to the maximum number of characters). If you want less or more, just change the number in the final of call of code.
